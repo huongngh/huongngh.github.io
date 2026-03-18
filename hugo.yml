@@ -33,10 +33,14 @@ params:
   showtoc: true
   tocopen: false
   hidemeta: true
+  disableSpecial1stPost: true
+  mainSections: []
 
   homeInfoParams:
-    Title: "Hi, I'm Hương 👋"
-    Content: Welcome to my personal site
+    Title: "Hi, I'm Hương"
+    Content: >
+      I'm a data engineer.
+      See my [projects](/projects/) →
 
   socialIcons:
     - name: github
