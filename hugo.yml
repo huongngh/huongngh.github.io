@@ -2,7 +2,6 @@ baseURL: "https://huongngh.github.io/"
 title: huongngh
 paginate: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -12,14 +11,19 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production
   title: huongngh
   description: "My personal site"
   author: huongngh
-  defaultTheme: auto       # auto, dark, or light
+  defaultTheme: auto
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -29,7 +33,6 @@ params:
   showtoc: true
   tocopen: false
 
-  # Home page info
   homeInfoParams:
     Title: "Hi, I'm Huong 👋"
     Content: Welcome to my personal site
@@ -65,9 +68,3 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON   # ← required for search to work
