@@ -2,9 +2,6 @@
 title: "Miscellanea"
 date: 2026-04-22
 draft: false
-tags: ["internet", "entertainment", "documentary", "random", "silly"]
-categories: ["Miscellaneous"]
-
 ---
 
 **Miscellanea** (from Latin *miscellus*, meaning "mixed"): a collection of diverse, unrelated items gathered together. 
