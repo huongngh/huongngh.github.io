@@ -8,42 +8,40 @@ showtoc: false
 draft: false
 ---
 
-## Hi, I'm Hương 
- 
-I'm a data engineer passionate about turning raw data into reliable, scalable infrastructure that teams can actually use.  
-I've worked on building ETL pipelines, designing data warehouse models, and experimenting with real-time streaming architectures using tools like Spark, Kafka, Airflow, dbt.  
-My cloud experience spans AWS, GCP, Azure, where I've worked on storage, orchestration, compute.
+## Hi, I'm Hương
+
+I love building things.
+
 
 ## Skills
 
+### Frontend
+- JavaScript — DOM manipulation, event handling, state management
+- HTML5, CSS3 — Flexbox, Grid, responsive layouts
+
 ### Data Engineering
-- Data Warehouse Design (Bronze / Silver / Gold layered architecture)
-- ETL/ELT Pipeline Development
-- Data Modeling (Star Schema, Slowly Changing Dimensions)
-- SQL — advanced querying, window functions, CTEs, performance tuning
+- ETL pipeline development with the Medallion Architecture (Bronze / Silver / Gold)
+- Data modeling — Star Schema, dimensional modeling
+- SQL — querying, joins, CTEs, window functions, T-SQL
 
 ### Databases & Platforms
-- PostgreSQL, SQL Server (T-SQL)
-- dbt (data build tool)
-- Apache Spark 
+- Microsoft SQL Server, Delta Lake
+- Databricks, Apache Spark (PySpark)
 
 ### Programming
-- Python (Pandas, NumPy, SQLAlchemy)
-- Bash / Shell scripting
+- Python (data transformation, PySpark)
+- SQL
 
-### BI & Visualization
-- Power BI / Tableau 
-- DAX, M Query
-
-### Tools & DevOps
-- Git, GitHub Actions (CI/CD)
-- Docker
-- VS Code, DBeaver, pgAdmin
+### Tools
+- Git, GitHub
+- Jupyter Notebook, VS Code, Draw.io
 
 ## Education
-**UIT** — Computer Science (2026)
+
+**University of Information Technology, VNUHCM** — B.Sc. Information Technology (expected 2026)
 
 ## Contact
+
 - GitHub: [huongngh](https://github.com/huongngh)
-- Email: info.huonghuynh@gmail.com
-- Linkedln: [Hương Huỳnh](www.linkedin.com/in/huongngh) 
+- Email: huonghuynh.1236@gmail.com
+- LinkedIn: [Hương Huỳnh](hhttps://www.linkedin.com/in/huonghuynh1236/)

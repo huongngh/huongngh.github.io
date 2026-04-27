@@ -11,7 +11,7 @@ Personal site built with [Hugo](https://gohugo.io/) and the [PaperMod](https://g
 - **About** — A little about me
 - **Projects** — Data engineering projects I've worked on
 - **Posts** — Book reviews and things I'm thinking about
-- **Reading** — Essays and articles from around the internet worth saving
+- **Miscellanea** — A collection of websites, documentaries, and essays from around the internet
 
 ---
 
