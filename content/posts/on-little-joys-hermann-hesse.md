@@ -5,10 +5,6 @@ draft: false
 tags: ["essay", "Hermann Hesse", "joy", "life"]
 ---
 
-# Hermann Hesse
-## On Little Joys
-(1905)
-
 Great masses of people these days live out their lives in a dull and loveless stupor. Sensitive persons find our inartistic manner of existence oppressive and painful, and they withdraw from sight. In art and poetry, after the brief heyday of realism, dissatisfaction has arisen everywhere, the clearest symptom of it being nostalgia for the Renaissance and Romanticism.
 
 "What you lack is faith!" cries the Church, and "What you lack is art," says Avenarius. They may be right. I believe what we lack is joy. The ardor that a heightened awareness imparts to life, the conception of life as a happy thing, as a festival — that is, after all, what dazzles and attracts us in the Renaissance. But the high value put upon every minute of time, the idea of hurry-hurry as the most important objective of living, is unquestionably the most dangerous enemy of joy. With a wistful smile we read the idyls, the sentimental journeys, of past epochs. What didn't our grandfathers have time for? Once when I was reading Friedrich Schlegel's elegy on idleness I could not help but think: How you would have sighed if you had had to work as hard as we do!
