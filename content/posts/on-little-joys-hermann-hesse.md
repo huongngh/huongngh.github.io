@@ -2,8 +2,8 @@
 title: "On Little Joys - Hermann Hesse"
 date: 2026-04-27
 draft: false
-tags: ["essay", "Hermann Hesse", "joy", "life"]
 ---
+
 
 Great masses of people these days live out their lives in a dull and loveless stupor. Sensitive persons find our inartistic manner of existence oppressive and painful, and they withdraw from sight. In art and poetry, after the brief heyday of realism, dissatisfaction has arisen everywhere, the clearest symptom of it being nostalgia for the Renaissance and Romanticism.
 
