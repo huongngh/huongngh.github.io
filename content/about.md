@@ -44,4 +44,5 @@ I love building things.
 
 - GitHub: [huongngh](https://github.com/huongngh)
 - Email: huonghuynh.1236@gmail.com
-- LinkedIn: [Hương Huỳnh](hhttps://www.linkedin.com/in/huonghuynh1236/)
+- LinkedIn: [Hương Huỳnh](https://www.linkedin.com/in/huonghuynh1236/)
+- Substack: [huongngh.substack.com](https://huongngh.substack.com)

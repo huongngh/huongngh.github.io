@@ -49,6 +49,8 @@ params:
       url: "mailto:huonghuynh.1236@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/huonghuynh1236/"
+    - name: substack
+      url: "https://huongngh.substack.com"
 
 menu:
   main:
