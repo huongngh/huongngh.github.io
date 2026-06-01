@@ -46,3 +46,4 @@ I love building things.
 - Email: huonghuynh.1236@gmail.com
 - LinkedIn: [Hương Huỳnh](https://www.linkedin.com/in/huonghuynh1236/)
 - Substack: [huongngh.substack.com](https://huongngh.substack.com)
+- Bluesky: [huongh.bsky.social](https://bsky.app/profile/huongh.bsky.social)
