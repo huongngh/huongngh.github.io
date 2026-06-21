@@ -15,6 +15,7 @@ Some days you need a distraction. Other days, you need something that stares bac
 
 A collection of essays and articles that stuck with me.
 
+- [Taking an Internet Walk](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/) - *Spencer Chang & Kristoffer Tjalve*
 - [Astral Codex Ten](https://www.astralcodexten.com/)
 - [Asimov Press](https://press.asimov.com/) - *Niko McCarty*
 - [Ocean Web Cams](https://www.openoceans.org/web-cams) — *OpenOceansGlobal*
